@@ -1,0 +1,34 @@
+server:
+  error:
+    include-stacktrace: on_param
+
+spring:
+  application:
+    name: springboot2-essestials
+  datasource:
+    url: jdbc:mysql://localhost:3306/anime?createDatabaseIfNotExist=true
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, metrics, prometheus
+  info:
+    env:
+      enabled: true
+
+info:
+  app: Spring Boot 2 Essencials By DevDojo
+  website: https://devdojo.academy
+  github: https://github.com/devdojobr/springboot2-essebcials

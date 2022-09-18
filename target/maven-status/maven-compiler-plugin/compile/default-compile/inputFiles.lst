@@ -1,0 +1,17 @@
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/domain/Anime.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/wrapper/PageableResponse.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/repository/AnimeRepository.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/exceptions/ValidationExceptionDetails.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/handler/RestExceptionHandler.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/requests/AnimePostRequestBody.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/exceptions/BadRequestException.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/service/AnimeService.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/requests/AnimePutRequestBody.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/Springboot2EssencialsApplication.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/mapper/AnimeMapper.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/exceptions/ExceptionDetails.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/controller/AnimeController.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/exceptions/BadRequestExceptionDetails.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/client/SpringClient.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/util/DateUtil.java
+/home/wellington/Área de Trabalho/Dev/Imersao/codigo-capacitacao-TioSam02/Back-end/springboot2-essencials/src/main/java/br/ufpb/springboot2essencials/configurer/DevDojoWebMvcConfigurer.java
